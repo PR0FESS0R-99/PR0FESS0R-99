@@ -9,7 +9,7 @@
 
 <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/coding.gif" alt="coding ?">
 
-### Subscriber And Support
+### Subscribe And Support
 
 **Youtube Channel :-** <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 
