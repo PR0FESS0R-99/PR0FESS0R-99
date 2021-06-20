@@ -15,3 +15,8 @@
 
 [![Group](https://badgen.net/badge/🔊%20Telegram%20/Group/Black)](https://telegram.dog/mo_Tech_Group)  [![Group](https://badgen.net/badge/🔊%20Telegram%20/Channel/Black)](https://telegram.dog/mo_Tech_YT)
 
+<br><img src="https://github-readme-stats.vercel.app/api?username=Mo-Tech-MRK-YT&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
+
+<br><img src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views">
+
+</div>
