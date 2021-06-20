@@ -7,7 +7,7 @@
 
 **Name :-** <img src="https://badgen.net/badge/Mrk/YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
 
-**Skills :-** <img src="https://badgen.net/badge/Python?icon=terminal&labelColor=red"></a>
+**Skills :-** <img src="<img src="https://badgen.net/badge/Skills/☑️/purple?icon=terminal&labelColor=red"></a>
 
 
 <img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
