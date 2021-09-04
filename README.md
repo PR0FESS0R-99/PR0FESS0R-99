@@ -1,8 +1,6 @@
 <div align="center">
 <h2>Hey Here<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px">, I'm Professor 99</h2>
 
-<div align="center" width="50">
-
 **Name :-** <img src="https://badgen.net/badge/Mrk/YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
 
 **Skills :-** <img src="https://badgen.net/badge/Python/☑️/purple?icon=terminal&labelColor=red"></a>
@@ -20,3 +18,5 @@
 <br><img src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views">
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-JINN-OF-TG)](https://github.com/MR-JINN-OF-TG) 
