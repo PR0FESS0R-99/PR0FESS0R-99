@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight)](https://github.com/PR0FESS0R-99)
 
+-------------------
+
 ### 📊 Contribution Graf
 <p align="center">
     <img
@@ -18,9 +20,27 @@
     />
 </p>
 
+-------------------
+
 ### 📍 Trophies 
 <p align="center">
     <img
         width="100%"
         src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub"
     />
+
+-------------------
+
+### 📊 Github Stats
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="100%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight"
+    />
+</p>
+
+-------------------
