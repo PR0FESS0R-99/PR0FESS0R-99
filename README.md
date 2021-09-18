@@ -12,4 +12,7 @@
 
 ### 📊 Graf
 
-src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode"
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode"
+    />
