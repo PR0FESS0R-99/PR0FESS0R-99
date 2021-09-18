@@ -11,8 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=tokyonight)](https://github.com/PR0FESS0R-99)
 
 ### 📊 Graf
-
+<p align="center">
     <img
         width="100%"
         src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode"
     />
+</p>
