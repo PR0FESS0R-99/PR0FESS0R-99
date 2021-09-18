@@ -44,10 +44,10 @@
         width="100%"
         src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight"
     />
-        width="100%"
+
         <br><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
-    />
 </p>
+
 -------------------
 
 ### 🧑‍💻 Pyrograming Language
