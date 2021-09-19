@@ -82,9 +82,16 @@
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 
+--------------------
 
 
+#### 📞 Connect Me On
+<p align="center">
+<a href="https://telegram.dog/PR0FESS0R_99/"><img src="https://cdn.dribbble.com/users/2936558/screenshots/7405759/media/a987556d0f7999bb6be647c9424b8597.gif" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" /></a>
+<a href="https://instagram.com/Mrk_YT_/"><img src="https://i.ibb.co/Gt0xhmG/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
+</p>
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqfFkJg/371907120-YOUTUBE-ICON-400px.gif" alt="371907120-YOUTUBE-ICON-400px" border="0"></a>
 
 
 
