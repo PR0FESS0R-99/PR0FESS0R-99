@@ -9,13 +9,13 @@
 
 -------------------
 
-### 🎤 Most Used Language
+#### 🎤 Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight)](https://github.com/PR0FESS0R-99)
 
 -------------------
 
-### 📊 Contribution Graf
+#### 📊 Contribution Graf
 <p align="center">
     <img
         width="100%"
@@ -34,7 +34,7 @@
 
 -------------------
 
-### 📊 Github Stats
+#### 📊 Github Stats
 <p align="center">
     <img
         width="100%"
@@ -50,7 +50,7 @@
 
 -------------------
 
-### 🧑‍💻 Pyrograming Language
+#### 🧑‍💻 Pyrograming Language
 
 <p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -63,7 +63,7 @@
 
 -------------------
 
-### 🤨 Visitors
+#### 🤨 Visitors
 
 <p align="center">
 
