@@ -88,9 +88,7 @@
 #### 📞 Connect Me On
 <p align="center">
 <a href="https://telegram.dog/PR0FESS0R_99/"><img src="https://cdn.dribbble.com/users/2936558/screenshots/7405759/media/a987556d0f7999bb6be647c9424b8597.gif" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" /></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://i.ibb.co/d4mpYvR/MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW.gif" alt="MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW" border="0" height="60" width="60" align="center" /></a>
 <a href="https://instagram.com/Mrk_YT_/"><img src="https://i.ibb.co/Gt0xhmG/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
 </p>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/d4mpYvR/MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW.gif" alt="MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW" border="0" height="60" width="60" align="center" /></a>
-
 
