@@ -74,7 +74,7 @@
 
 ### 🎉 Support Us
 
-**Youtube Channel :-** <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 
 [![Group](https://badgen.net/badge/🔊%20Telegram%20/Group/Black)](https://telegram.dog/mo_Tech_Group)  [![Group](https://badgen.net/badge/🔊%20Telegram%20/Channel/Black)](https://telegram.dog/mo_Tech_YT)
 
