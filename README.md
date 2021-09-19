@@ -91,9 +91,6 @@
 <a href="https://instagram.com/Mrk_YT_/"><img src="https://i.ibb.co/Gt0xhmG/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
 </p>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FqfFkJg/371907120-YOUTUBE-ICON-400px.gif" alt="371907120-YOUTUBE-ICON-400px" border="0"></a>
-
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/d4mpYvR/MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW.gif" alt="MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/d4mpYvR/MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW.gif" alt="MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW" border="0" height="48" width="60" align="center" /></a>
 
 
