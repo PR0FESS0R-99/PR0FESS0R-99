@@ -4,7 +4,7 @@
 
 
 
-## ~Social Profiles~
+## <u>Social Profiles</u>
 
 ## Subscribe YouTube Channel
 
