@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight" align="center">
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
 </p>
 
 
@@ -53,10 +53,7 @@
         width="100%"
         src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
-    <img
-        width="100%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight"
-    />
+    
 </p>
       <br><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 
