@@ -1,4 +1,4 @@
-##### <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
+## <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
 
 * 📚 Student
 
@@ -13,6 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight" align="center">
+🔃 Pyrograming Language 🔃
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
@@ -21,14 +22,14 @@
     <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20px" height="20" /></a>
 </p>
 
-#### 📊 Contribution Graf
+###### 📊 Contribution Graf
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
 </p>
 
 
 
-#### 🧑‍💻 Pyrograming Language
+###### 🧑‍💻 
 
 <p align="center"> 
 </p>
