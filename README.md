@@ -1,8 +1,8 @@
-* <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
+##### <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
 
 * 📚 Student
 
-# My Social Profiles
+###### My Social Profiles
 <p align="center">
 <a href="https://www.instagram.com/mrk_yt_"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/PR0FESS0R_99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
