@@ -1,13 +1,10 @@
+<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
 
- <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px">
-
-
-Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
-
-• +1 Student
+* +1 Student
 
 
 
+## ~Social Profiles~
 
 ## Subscribe YouTube Channel
 
