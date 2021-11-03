@@ -11,7 +11,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight)](https://github.com/PR0FESS0R-99)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR0FESS0R-99&layout=compact&theme=tokyonight" align="center">
 
 </p>
 
