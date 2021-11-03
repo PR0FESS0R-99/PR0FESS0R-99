@@ -16,7 +16,7 @@
 
 ## Subscribe YouTube Channel
 
-<a href="">https://youtube.com/c/MoTech_YT<img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-logo=youtube&logoColor=red"/></a>
+<a href="https://youtube.com/c/MoTech_YT"><img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-logo=youtube&logoColor=red"/></a>
 
 -------------------
          
