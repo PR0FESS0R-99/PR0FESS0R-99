@@ -1,10 +1,22 @@
 <img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Pr0fess0r-99](https://github.com/PR0FESS0R-99) Welcome To Github Profile
 
-* +1 Student
+* 📚 Student
+
+# My Social Profiles
+<p align="center">
+<a href="https://www.instagram.com/mrk_yt_"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/PR0FESS0R_99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/c/MoTech_YT"><img alt="youtube" src="https://img.shields.io/badge/MoTech-2CA5E0?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
+</p>
 
 
 
-## <u>Social Profiles</u>
+
 
 ## Subscribe YouTube Channel
 
@@ -12,7 +24,7 @@
 
 
 
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href=""> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 -------------------
          
@@ -99,9 +111,4 @@
 
 
 #### 📞 Connect Me On
-<p align="center">
-<a href="https://telegram.dog/PR0FESS0R_99/"><img src="https://cdn.dribbble.com/users/2936558/screenshots/7405759/media/a987556d0f7999bb6be647c9424b8597.gif" alt="image-processing20210405-32501-doifx3" border="0" height="48" width="60" align="center" /></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://i.ibb.co/d4mpYvR/MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW.gif" alt="MOTECH-YOUTUBE-CHENNEL-SUBSCRIBE-NOW" border="0" height="60" width="60" align="center" /></a>
-<a href="https://instagram.com/Mrk_YT_/"><img src="https://i.ibb.co/Gt0xhmG/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
-</p>
 
