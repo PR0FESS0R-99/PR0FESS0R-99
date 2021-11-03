@@ -16,7 +16,7 @@
 
 ## Subscribe YouTube Channel
 
-<a href=""> <img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-logo=youtube&logoColor=red&labelColor=2CA5E0"/> </a>
+<a href=""> <img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-logo=youtube&logoColor=red" labelColor=2CA5E0"/> </a>
 
 -------------------
          
