@@ -3,7 +3,7 @@
 * 📚 Student
 
 <p align="center">
-😎 My Social Profiles 😎
+😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
 </p>
 <p align="center">
 <a href="https://www.instagram.com/mrk_yt_"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -22,32 +22,37 @@
     <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20px" height="20" /></a>
 </p>
 
-###### 📊 Contribution Graf
+<p align="center">
+📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
+</p>
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
 </p> 
 
-        
+  
+<p align="center">
+🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+</p>
+<p align="center">
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
+</p>
+
+<p align="center">
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
+</p>
+<p align="center">
+<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+</p>
+
+
+
+     
 ###### 📊 Stats
 
 [![Metrics](https://metrics.lecoq.io/PR0FESS0R-99?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/PR0FESS0R-99)
 
 
-###### 📍 Trophies 
-<p align="center">
-<img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
-
-
-
-
-<p align="center">
- 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
-</p>
-
-<p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
-</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99)
 
