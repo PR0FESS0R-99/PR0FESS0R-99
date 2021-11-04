@@ -47,8 +47,8 @@
 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒
 </p>
 <p align="center">
-<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 
 
