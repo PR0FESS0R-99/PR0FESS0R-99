@@ -35,10 +35,7 @@
 
 ##### 📍 Trophies 
 <p align="center">
-    <img
-        width="100%"
-        src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub"
-    />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
 
 -------------------
 
@@ -47,6 +44,7 @@
 <p align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99)
+
 <br><img src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views">
 
 </p>
