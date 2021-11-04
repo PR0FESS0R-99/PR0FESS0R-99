@@ -38,7 +38,7 @@
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
 
 <p align="center">
-<b>🤨 Visitors</b>
+😶‍🌫️ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 😶‍🌫️
 </p>
 
 <p align="center">
