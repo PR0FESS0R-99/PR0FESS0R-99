@@ -24,7 +24,7 @@
 ###### 📊 Contribution Graf
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
-<br><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=2979FF&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
+<br><img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=3E4405F&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 </p>
 
         
