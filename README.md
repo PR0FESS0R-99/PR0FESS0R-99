@@ -2,13 +2,14 @@
 
 * 📚 Student
 
-###### My Social Profiles
+<p align="center">
+😎 My Social Profiles 😎
+</p>
 <p align="center">
 <a href="https://www.instagram.com/mrk_yt_"><img alt="Instagram" src="https://img.shields.io/badge/Mrk_YT_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/PR0FESS0R_99"><img alt="Telegram" src="https://img.shields.io/badge/PR0FESS0R_99-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/c/MoTech_YT"><img alt="youtube" src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&theme=highcontrast" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PR0FESS0R-99&theme=tokyonight" align="center">
@@ -37,15 +38,19 @@
 <p align="center">
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
 
+
+
+
 <p align="center">
-😶‍🌫️ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 😶‍🌫️
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
 </p>
 
 <p align="center">
 <img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
 </p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99)
---------------------
+
 
 ### 🎉 Support Us
 
