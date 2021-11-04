@@ -2,6 +2,8 @@
 
 * 📚 Student
 
+
+
 <p align="center">
 😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
 </p>
@@ -22,13 +24,16 @@
     <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20px" height="20" /></a>
 </p>
 
+
+
 <p align="center">
 📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
 </p>
 <p align="center">
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
 <img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
-</p> 
+</p>
+
 
   
 <p align="center">
@@ -37,6 +42,8 @@
 <p align="center">
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=PR0FESS0R-99&theme=darkhub" />
 </p>
+
+
 
 <p align="center">
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
@@ -55,4 +62,3 @@
 
 --------------------
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PR0FESS0R-99)
