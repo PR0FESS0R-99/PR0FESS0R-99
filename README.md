@@ -58,7 +58,7 @@
     <p align="left">
     <u>Buy me a coffee for my works !</u><br>
     <img src="https://telegra.ph/file/b926b7e8ea84826d81d8a.png" width="260px" style="max-width:100%;"/><br><br>
-      <a href="https://www.paypal.me/space4renjith" target="_blank">
+      <a href="https://www.googlepay.me/motech8129@okhdfcbank" target="_blank">
         <img src="https://img.shields.io/badge/Donate-Me-blueviolet?style=for-the-badge&logo=paypal">
     </a>
 </p>
