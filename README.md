@@ -11,7 +11,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=pr0fess0r-99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
----
+----
 <p align="center">
 <b>𝐂𝐎𝐍𝐓𝐄𝐂𝐓 𝐌𝐄</b>
 </p>
@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="muhammed-instagram" />
   </a>
 </div>
----
+----
 <p align="center">
 <b>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒</b>
 </p>
