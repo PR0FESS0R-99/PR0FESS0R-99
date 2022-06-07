@@ -3,8 +3,7 @@
 <p align="center">
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
-<!-- https://github.com/pr0fess0r-99/github-readme-stats -->
-<br>
+
 
 <p align=center>
   <a href="#" title="pr0fess0r-99">
