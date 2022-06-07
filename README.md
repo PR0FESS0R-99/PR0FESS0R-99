@@ -1,3 +1,6 @@
+
+# # Contect #
+
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -10,10 +13,6 @@
   <a href="https://instagram.com/mrk_yt_" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="muhammed-instagram" />
   </a>
-  <a target="_blank" href="https://icons8.com/icon/112159/telegram-app">Telegram App</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-
-
 </div>
 
 
