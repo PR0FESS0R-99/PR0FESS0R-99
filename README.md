@@ -21,6 +21,16 @@
 ----
 
 <p align="center">
+<b>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒</b>
+</p>
+<p align="center">
+<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+
+----
+
+<p align="center">
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
 
@@ -29,19 +39,7 @@
 <a href="https://github.com/PR0FESS0R-99/PR0FESS0R-99/" title="pr0fess0r-99"> <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=pr0fess0r-99&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
 </p>
 
-----
-<!------------------------!>
-
-<p align="center">
-<b>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒</b>
-</p>
-<p align="center">
-<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-
-<!------------------------!>
-
+--------------------
 
 <p align="center">
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
