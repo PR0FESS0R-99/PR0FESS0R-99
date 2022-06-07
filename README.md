@@ -1,6 +1,6 @@
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒</h2>
 <!-- https://github.com/pr0fess0r-99/github-readme-stats -->
 <br>
 <div align=center>
@@ -11,9 +11,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=pr0fess0r-99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-
-
+---
 <p align="center">
 <b>𝐂𝐎𝐍𝐓𝐄𝐂𝐓 𝐌𝐄</b>
 </p>
@@ -30,7 +28,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="muhammed-instagram" />
   </a>
 </div>
-
+---
 <p align="center">
 <b>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒</b>
 </p>
