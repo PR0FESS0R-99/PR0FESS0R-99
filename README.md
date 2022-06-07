@@ -39,7 +39,8 @@
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 
-----
+<!------------------------!>
+
 
 <p align="center">
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
