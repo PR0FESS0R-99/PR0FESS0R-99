@@ -19,7 +19,7 @@
 </p>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<p align="center">
   <a href="https://www.facebook.com/mrk.yt.507" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="muhammed-facebook" />
   </a>
@@ -29,7 +29,7 @@
   <a href="https://instagram.com/mrk_yt_" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="muhammed-instagram" />
   </a>
-</div>
+</p>
 
 ----
 
