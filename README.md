@@ -1,5 +1,5 @@
 <p align="center">
-# # Contect # #
+<b>Contect</b>
 </p>
 <br>
 <!-- https://icons8.com -->
