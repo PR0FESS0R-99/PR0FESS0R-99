@@ -1,8 +1,4 @@
-</p>
-<p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
-<img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
-</p>
+
 
 ----
 
@@ -37,6 +33,15 @@
 <p align="center">
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
+
+
+
+</p>
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=PR0FESS0R-99&custom_title=Contribution+Graph&theme=xcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=PR0FESS0R-99&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=61dafb" alt="SVR's github stats" />
+</p>
+
 
 <p align=center>
 <a href="https://github.com/PR0FESS0R-99/PR0FESS0R-99/" title="pr0fess0r-99"> <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0fess0r-99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" /> </a>
