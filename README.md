@@ -1,7 +1,7 @@
 
+<!-- This content will not appear in the rendered Markdown -->
 
-- [x] #40
-- [^note]  j
+Ajjaa
 ----
 
 <p align="center">
