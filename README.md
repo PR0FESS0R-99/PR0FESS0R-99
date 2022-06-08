@@ -1,8 +1,5 @@
-Ajaj
+> Hi
 
-<!-- This content will not appear in the rendered Markdown -->
-
-Ajjaa
 ----
 
 <p align="center">
