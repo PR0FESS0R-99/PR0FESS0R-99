@@ -1,11 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Guys!;Welcome+To+@Pr0fess0r-99's+Github)</p>
-<p align="center">
+Hello Guys, Welcome To PR0FESS0R-99's Github
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🤵+Name+:+Muhammed)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🤔+Age+:+🔞)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🏞️+Place+:+Kerala+Kasaragod)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📣+Language+:+Malayalam)
+🤵 Name : Muhammed
+\n
+📆 Age : 🔞
+\n
+🏞️ Place : Kerala Kasaragod
+\n
+📣 Language : Malayalam
 
 
 <p align="center">
