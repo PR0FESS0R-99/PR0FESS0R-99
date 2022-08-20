@@ -2,7 +2,7 @@
 <p align="center">
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Name) : ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Muhammed)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Name) : ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Muhammed)
 
 
 
