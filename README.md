@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🤵+Name+:+Muhammed)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🤔+Age+:+🔞)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🏞️+Place+:+Kerala+Kasaragod)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📣+Language+:+Malayalam)
 
 
 
