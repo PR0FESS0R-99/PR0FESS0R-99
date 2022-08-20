@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Guys!;Welcome+To+@Pr0fess0r_99's+Github)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Guys!;Welcome+To+@Pr0fess0r-99's+Github)</p>
 <p align="center">
 
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R_99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 
