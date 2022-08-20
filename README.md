@@ -1,5 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Welcome+To+Pr0fess0r_99's+Github!;Iam+Muhammed!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Hello+Welcome+To+Pr0fess0r_99's+Github!)</p>
 <p align="center">
+
+
 
 
 
