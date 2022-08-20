@@ -8,6 +8,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=📣+Language+:+Malayalam)
 
 
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R_99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
 
 
 
