@@ -2,11 +2,11 @@ Hello Guys, Welcome To PR0FESS0R-99's Github
 
 
 🤵 Name : Muhammed
-\n
-📆 Age : 🔞
-\n
+
+📆 Age : 🔞 /n
+
 🏞️ Place : Kerala Kasaragod
-\n
+
 📣 Language : Malayalam
 
 
