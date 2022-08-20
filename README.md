@@ -15,7 +15,7 @@ I am a small telegram bot developer, You can see my [projects](https://github.co
 ☎️ **Contect Here**
 
 <a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://www.instagram.com/mrk_yt_"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/mrk_yt_"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=black"></a>
 
 
 
