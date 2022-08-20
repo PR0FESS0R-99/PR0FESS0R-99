@@ -12,7 +12,7 @@
 
 I am a small telegram bot developer, You can see my [projects](https://github.com/PR0FESS0R-99/Open-Source). If you like my work you can support
 
-☎️ Contect Here
+☎️ **Contect Here**
 
 
 
