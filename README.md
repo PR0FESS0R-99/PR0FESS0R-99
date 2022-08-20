@@ -18,7 +18,5 @@ I am a small telegram bot developer, You can see my [projects](https://github.co
 <a href="https://www.instagram.com/mrk_yt_"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=red"></a>
 <a href="https://www.facebook.com/mrk.yt.507"><img alt="facebook" src="https://img.shields.io/badge/FaceBook-%22B1B17.svg?&logo=facebook&logoColor=blue"></a>
 
-</p>
-<p align="center">
 <img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
-</p>
+
