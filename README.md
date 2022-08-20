@@ -3,6 +3,8 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Name+:+Muhammed)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Name+:+Muhammed)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Name+:+Muhammed)
 
 
 
