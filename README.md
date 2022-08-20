@@ -16,6 +16,8 @@ I am a small telegram bot developer, You can see my [projects](https://github.co
 
 <a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Telegram-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/mrk_yt_"><img alt="telegram" src="https://img.shields.io/badge/Instagram-%22B1B17.svg?&logo=instagram&logoColor=red"></a>
+<a href="https://www.facebook.com/mrk.yt.507"><img alt="facebook" src="https://img.shields.io/badge/FaceBook-%22B1B17.svg?&logo=facebook&logoColor=blue"></a>
+
 
 
 
@@ -32,7 +34,7 @@ I am a small telegram bot developer, You can see my [projects](https://github.co
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/mrk.yt.507" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="muhammed-facebook" />
   </a>
   <a href="https://www.youtube.com/c/motech_yt" target="blank">
