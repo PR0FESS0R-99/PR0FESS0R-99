@@ -1,9 +1,8 @@
 👋 **Hello** Guys, **Welcome** To **PR0FESS0R-99**'s Github
 
 
-| Personal Details |
-
-
+| Personal | Details |
+| ---- | ---- | 
 | 🤵 | Name | Muhammed |
 | 📆 | Age| 🔞 |
 | 🏞️ | Place | Kerala Kasaragod |
