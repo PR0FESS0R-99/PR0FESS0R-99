@@ -1,15 +1,12 @@
-<marguee direction="left">
 👋 **Hello** Guys, **Welcome** To **PR0FESS0R-99**'s Github
-</marguee>
 
 
-🤵 **Name** : Muhammed
-
-📆 **Age** : 🔞
-
-🏞️ **Place** : Kerala Kasaragod
-
-📣 **Language** : Malayalam
+| Personal Details |
+| ---- | ---- | ---- |
+| 🤵 | **Name** : | Muhammed |
+| 📆 | **Age** : | 🔞 |
+| 🏞️ | **Place** : | Kerala Kasaragod |
+| 📣 | **Language** : | Malayalam |
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
