@@ -2,12 +2,12 @@
 
 
 | Personal Details |
+| -------- |
+| 🤵 | Name | Muhammed |
 | ---- | ---- | ---- |
-| 🤵 | **Name** : | Muhammed |
-| ---- | ---- | ---- |
-| 📆 | **Age** : | 🔞 |
-| 🏞️ | **Place** : | Kerala Kasaragod |
-| 📣 | **Language** : | Malayalam |
+| 📆 | Age| 🔞 |
+| 🏞️ | Place | Kerala Kasaragod |
+| 📣 | Language | Malayalam |
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
