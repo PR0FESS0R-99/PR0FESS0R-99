@@ -2,8 +2,9 @@
 
 
 | Personal Details |
+
+
 | 🤵 | Name | Muhammed |
-| ---- | ---- | ---- |
 | 📆 | Age| 🔞 |
 | 🏞️ | Place | Kerala Kasaragod |
 | 📣 | Language | Malayalam |
