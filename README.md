@@ -1,7 +1,7 @@
 👋 **Hello** Guys, **Welcome** To **PR0FESS0R-99**'s Github
 
 
-| Personal Details | | |
+| Emoji | Details | Info |
 | ---- | ---- | ---- |
 | 🤵 | Name | Muhammed |
 | 📆 | Age| 🔞 |
