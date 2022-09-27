@@ -2,8 +2,6 @@
 
 
 | Personal Details |
-
-
 | 🤵 | Name | Muhammed |
 | ---- | ---- | ---- |
 | 📆 | Age| 🔞 |
