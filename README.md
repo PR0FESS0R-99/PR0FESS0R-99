@@ -4,9 +4,9 @@
 | Emoji | Details | Info |
 | ---- | ---- | ---- |
 | 🤵 | Name | Muhammed |
-| 📆 | Age| 🔞 |
+| 📆 | Age| 20 |
 | 🏞️ | Place | Kerala Kasaragod |
-| 📣 | Language | Malayalam |
+| 📣 | Language | Malayalam |q
 
 <img src="https://github-stats-alpha.vercel.app/api/?username=PR0FESS0R-99&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 
